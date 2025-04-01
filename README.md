@@ -14,3 +14,4 @@ In the end I should have an api, and three UIs -a terminal, destop ui and web UI
 		
 [Terminal Password handling](https://stackoverflow.com/questions/1786532/c-command-line-password-input)
 		
+[Compiling, linking, Makefile, header files](https://gribblelab.org/teaching/CBootCamp/12_Compiling_linking_Makefile_header_files.html#:~:text=The%20compiler%20will%20look%20in,see%20Search%20Path%20for%20details).)
