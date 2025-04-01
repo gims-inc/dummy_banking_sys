@@ -6,7 +6,7 @@ It's been adopted from [geeksfogeeks.org](https://www.geeksforgeeks.org/bank-acc
 Each branch will progressivelly tackle every aspect  of C programming ever learnt,from  compiling, dynamic linking, file handling etc.
 The branches will be named by the aspect or concept.
 
-In the end I should have an api, and three UIs -a terminal, destop ui and web UI. So help me God :sweat:
+In the end I should have an api, and three UIs -a terminal, destop ui and web UI. So help me code :sweat:
 	
 	#Resourcess
 	
