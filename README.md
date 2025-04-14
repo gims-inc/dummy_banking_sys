@@ -7,6 +7,8 @@ Each branch will progressivelly tackle every aspect  of C programming ever learn
 The branches will be named by the aspect or concept.
 
 In the end I should have an api, and three UIs -a terminal, destop ui and web UI. So help me code :sweat:
+
+unrelated, I happen to interacted with CODECO - Computerised Departure Control' system as a user.
 	
 	#Resourcess
 	
